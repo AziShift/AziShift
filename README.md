@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,python,django,FastAPI,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,linux,python,django,fastapi,postgresql" />
 </p>
 
 
